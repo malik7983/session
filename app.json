@@ -10,7 +10,7 @@
     ],
     "repository": "https://github.com/malik7983/session",
     "website": "",
-    "success_url": "https://t.me/groupdcbots",
+    "success_url": "https://t.me/malik_bots",
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
