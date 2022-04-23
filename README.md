@@ -25,5 +25,9 @@ Get pyrogram string session from [BOT](https://t.me/SessionStringGeneratorZBot) 
 
 # Deploy
 <a href="https://heroku.com/deploy?template=https://github.com/malik7983/session">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
 
 if deploy button doesn't work, then deploy `manually.`
