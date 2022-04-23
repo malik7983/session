@@ -1,4 +1,4 @@
-#Groupdcbots
+#malik_bots
 ethon
 python-decouple
 pyrogram
