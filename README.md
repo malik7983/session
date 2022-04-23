@@ -24,6 +24,6 @@ Get pyrogram string session from [BOT](https://t.me/SessionStringGeneratorZBot) 
 - if you face `ERROR: Client has not been started yet` then just send `/start`.
 
 # Deploy
-<p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<a href="https://heroku.com/deploy?template=https://github.com/malik7983/session">
 
 if deploy button doesn't work, then deploy `manually.`
