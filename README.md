@@ -1,9 +1,9 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=groupdcbots&repo=savecontentbot&theme=tokyonight)](https://github.com/groupdcbots/savecontentbot&bg_color=#24292F)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=malik7983&repo=session&theme=tokyonight)](https://github.com/malik7983/session&bg_color=#24292F)
 
 
-# Save Restricted Content Bot
+# Save session Content Bot
 
-A simple telegram bot to save restricted content with custom thumbmail support by Mahesh Chauhan.
+A simple telegram bot to save session content with custom thumbmail support by sahid malik.
 
 # Variables
 
